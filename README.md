@@ -1,3 +1,1 @@
-•	This Supply Chain Project focuses on analyzing and visualizing the supply chain data of a fashion and makeup product company. Data contains various features related to procurement supply chain process, including product information, sales, revenue, shipping details, supplier information etc.
-•	This comprehensive Power BI dashboard shows various supply chain metrics and KPIs. It includes interactive visualizations like charts, graphs, tables, and maps.
-•	Dashboard will allow users to gain valuable insights into the supply chain process, identify trends, and make data-driven decisions to optimize operations.
+
